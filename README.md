@@ -1,6 +1,6 @@
 # BrickBreaker-Game
 
-This is a game built in JAVA-Swing which is an GUI toolkit for Java.
+This is a small game built in JAVA-Swing which is an GUI toolkit for Java.
 
 # Images
 
